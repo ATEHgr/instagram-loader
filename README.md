@@ -1,3 +1,3 @@
 # instagram-loader
 
-# This insta-loader can download profils in intsagram
+This insta-loader can download profils in intsagram
